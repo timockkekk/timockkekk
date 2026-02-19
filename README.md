@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm timockkekk 👋
 
-<!--
-**timockkekk/timockkekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineer** passionate about building things and solving problems through code.
 
-Here are some ideas to get you started:
+- 🎓 Computer Science Engineer
+- 💻 I love writing clean, efficient code
+- 🔭 Always exploring new technologies
+- 🌱 Continuously learning and growing
+- 💬 Feel free to reach out — open to collaboration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Thanks for stopping by!* 😄
